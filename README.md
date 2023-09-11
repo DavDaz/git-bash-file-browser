@@ -1,10 +1,10 @@
 # git-bash-file-browser
-El objetivo del proyecto es guardar las rutas que navegas con frecuencia,
+* El objetivo del proyecto es guardar las rutas que navegas con frecuencia,
 y poder volver a navegar a estas de manera rápida.
-ejemplo ejecutastes la opcion save y guardastes la ruta "c/Users/yo/Desktop" con el nombre de "Desktop",
-ahora con estar en cualquier ruta de tu gitbash o bash, podras colocar navegar + <nombre_definido> e ira. 
 
-# navegar Desktop
+### *Ejemplo:* 
+Ejecutastes la opción "navegar --save" y guardastes la ruta "c/Users/yo/Desktop" con el nombre de "Desktop",
+ahora con estar en cualquier ruta de tu gitbash o bash, podras colocar navegar + <nombre_definido> y tu terminal ira a esa ruta. 
 
 ## Importante:
 Recuerda que puedes ajustar las rutas y nombres de archivo según sea necesario para que coincidan con tu entorno específico. 
