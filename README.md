@@ -10,11 +10,20 @@ ahora con estar en cualquier ruta de tu gitbash o bash, podras colocar "navegar 
 Recuerda que puedes ajustar las rutas y nombres de archivo según sea necesario para que coincidan con tu entorno específico. 
 Además, ten en cuenta que este script asume que estás utilizando Windows y que tienes instalado Git Bash o una terminal Bash en tu sistema.
 
-## Instalacion:
+## Instalacion Windows:
 1. Clona el proyecto
 2. Darle doble click o ejecutar desde una terminal el isntalador con:
    ~$ ./instalador.bat
 3. Abre una terminal nueva bash o gitbach y escribe "navegar" para tener informacion
+   ~$ navegar
+
+## Instalacion Linux:
+1. Clona el proyecto
+2. Darle permiso al ejecutable sh con:
+   ~$ chmod +x instalador.sh
+4. Darle doble click o ejecutar desde una terminal el isntalador con:
+   ~$ ./instalador.sh
+5. Abre una terminal nueva bash o gitbach y escribe "navegar" para tener informacion
    ~$ navegar
 
 ### Uso:
